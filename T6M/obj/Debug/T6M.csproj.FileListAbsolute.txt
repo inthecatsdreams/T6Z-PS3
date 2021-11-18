@@ -1,0 +1,13 @@
+C:\Users\Ilya\source\repos\T6M\T6M\bin\Debug\T6M.exe.config
+C:\Users\Ilya\source\repos\T6M\T6M\bin\Debug\T6M.exe
+C:\Users\Ilya\source\repos\T6M\T6M\bin\Debug\T6M.pdb
+C:\Users\Ilya\source\repos\T6M\T6M\bin\Debug\PS3Lib.dll
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.csproj.AssemblyReference.cache
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.Form1.resources
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.Properties.Resources.resources
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.csproj.GenerateResource.cache
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.csproj.CopyComplete
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.exe
+C:\Users\Ilya\source\repos\T6M\T6M\obj\Debug\T6M.pdb
